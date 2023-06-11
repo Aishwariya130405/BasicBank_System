@@ -1,44 +1,16 @@
-# BasicBank_System
+***GRIP-Banking-System***
 
-Description
+This project is a part of the Graduate Rotational Internship Program (GRIP) by The Sparks Foundation. The Sparks Foundation is a non-profit organization that aims to inspire students to innovate and build skills to solve real-life problems. The GRIP program is a 3-month internship program that provides hands-on experience in the field of web development and design.
 
+The Sparks Foundation Internship Project presents the Basic Banking System, a web application that allows for virtual money transfer between multiple users. This user-friendly platform allows you to view a list of all the users, select and view the details of a specific user, initiate a money transfer, choose the recipient, and view the transfer history.
 
-This a Internship project by Sparks Foundation.
-This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
-Details of Customers are maintained as Name, Email, Amount are fields.
-Transaction is done through PDO, If some Error occured while Transaction changes made to table is Rollback(Reverted).
+This project is built with a robust technology stack, utilizing the power of HTML, CSS, Bootstrap and JavaScript for the front-end design, PHP for the back-end functionality, and MySQL as the database management system. With these technologies, the project guarantees an efficient and seamless user experience.
 
+The website is hosted on 000Webhost, a reliable and secure hosting platform. 
+You can access the live website via the link provided: https://gripsystem.000webhostapp.com/
 
-First Time Installation
+If you have any questions or want to know more about the project, you can reach out to the creator, 
+Vishal Chhipa, on LinkedIn at: https://www.linkedin.com/in/vishalchhipa00/
+         
+ 
 
-
-Clone the Repository.
-Make sure you have installed XAMP on your computer.
-Copy this folder(Sparks-Foundation) to XAMP installation Directory and then inside htdocs folder.
-For Example
-C:\xampp\htdocs\
-Open Xamp Control Panel. Click on Start button near Apache and MySQL.
-Open browser type the following into search bar.
-http://localhost/Sparks-Foundation/firsttime.php
-If everything works fine you would see this on your browser.
-Conection was established Succesfully.
-DATABASE Created Successfully.
-Customer Table Created Successfully.
-Entries added to table Successfully.
-Transaction Table Created Successfully.
-This means that you have created a database name bank, a table name customers also added 10 entries to table and finally creating a table name Transaction.
-How To Run
-After following steps above(First Time Installation).
-Make Sure XAMP is active with Apache and MySQL Server Enabled.
-Open Browser Enter the following URL:
-http://localhost/Sparks-Foundation/
-OR
-
-http://localhost/Sparks-Foundation/index.php
-You will land to Homepage of Money Bank Website.
-Click On View all Customer from Navigation OR Get Started button for viewing detail of all Customers.
-You will see Customer details in table with deatils like(Name, Email, Current balance, etc.).
-Click on Send Button Corresponding Any row of table.
-Now We are on Money Transfering Page. Now Enter a Valid Name in To textbox and also Enter Amount, Click on checkbox and finally Click on Send Button To Start Transfer.
-Make sure the Amount you enter is not grator then current balance of the Person Selected, else it will pop Message.
-If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table.
