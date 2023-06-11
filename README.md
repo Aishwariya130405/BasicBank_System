@@ -1,13 +1,16 @@
 <html>
 <body>
-<h2>
-Sparks Foundation - Basic Banking System<h2>
+  <h2>
+Sparks Foundation - Basic Banking System
+  </h2>
+  <ul>
 Index
 Description
 First Time Installation
 How To Run
-Screenshort
-Description
+Screenshot
+  </ul>
+  <h4>Description</h4>
 This a Internship project by Sparks Foundation.
 This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
 Details of Customers are maintained as Name, Email, Amount are fields.
