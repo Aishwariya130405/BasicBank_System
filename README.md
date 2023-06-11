@@ -50,3 +50,7 @@ http://localhost/BasicBank_System/index.php
 - Now We are on Money Transfering Page and Transfer money
 - Make sure the Amount you enter is not grator then current balance of the Person Selected, else it will pop Message.
 - If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table. 
+
+## Screenshots
+<img width="960" alt="BasicBankingsystem" src="https://github.com/Aishwariya130405/BasicBank_System/assets/121952995/16810040-9bc1-411f-bad3-0e7a440a25f2">
+
