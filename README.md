@@ -52,5 +52,6 @@ http://localhost/BasicBank_System/index.php
 - If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table. 
 
 ## Screenshots
-<img width="960" alt="BasicBankingsystem" src="https://github.com/Aishwariya130405/BasicBank_System/assets/121952995/a2f9bdc8-ea5b-41e8-8c39-10578c74da94">
+
+<img width="940" alt="BasicBankingsystem" src="https://github.com/Aishwariya130405/BasicBank_System/assets/121952995/3a37b877-a123-4487-8803-0fee755bd47f">
 
